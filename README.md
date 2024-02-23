@@ -1,1 +1,1 @@
-Sofi Technologies Stock Analysis
+# Sofi Technologies Stock Analysis
