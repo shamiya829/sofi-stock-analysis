@@ -1,1 +1,1 @@
-# sofi-stock-analysis
+Sofi Technologies Stock Analysis
